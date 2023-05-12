@@ -1,0 +1,10 @@
+beautifulsoup4
+datacommons
+google-cloud-bigquery
+google-cloud-bigquery-storage
+matplotlib
+pandas
+pyarrow
+qwikidata
+requests
+sklearn
